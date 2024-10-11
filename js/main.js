@@ -261,7 +261,8 @@
                 error: function() {
 
                     sLoader.fadeOut();
-                    $('#message-warning').html("Something went wrong. Please try again.");
+                    $('#message-warning').html("Of course I didn't implement this xD. I am too lazy to host this and I don't want to expose any API key.");
+                    // $('#message-warning').html("Something went wrong. Please try again.");
                     $('#message-warning').fadeIn();
 
                 }
